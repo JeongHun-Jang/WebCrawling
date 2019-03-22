@@ -2,10 +2,14 @@
 Web Crawling Examples 
 
 01_request_to_server
+   - get, post
+   - text, headers, cookies
 
-02_
+02_bs4
+   - prettify
+   - text vs string
 
-03
+03_bs4_tag
 
 04
 
