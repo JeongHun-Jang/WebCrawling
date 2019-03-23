@@ -17,9 +17,15 @@ Web Crawling Examples
    - using url pattern
    - using next page url
    
-05_
+05_naver_news_crawling
+   - 10 news crawling
+   - title, href, contents
 
-06
+06_naver_movie_reple_sentiment_analysis
+   - movie title, score, reple crawling
+   - Pipeline (TfidfVectorizer, LogisticRegression)
+   - konlpy, Okt() - twitter morpheme analyzer
+   - pickle
 
 07
 
