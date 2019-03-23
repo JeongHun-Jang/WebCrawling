@@ -38,6 +38,10 @@ Web Crawling Examples
    - get(), title, page_source
    - find_element_by_id(), find_element_by_tag_name()
 
-09_
+09_selenium_auto_sign_up
+   - fill sign-up-form using selenium
+   - find_element_by_css_selector()
+   - click(), send_keys(), Select(), select_by_value()
 
-10
+10_selenium_daum_movie_list_crawling
+   - daum movie title, score, book_rate crawling
