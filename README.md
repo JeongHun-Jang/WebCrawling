@@ -7,10 +7,12 @@ Web Crawling Examples
 
 02_bs4
    - prettify
-   - text vs string
+   - text, string
 
 03_bs4_tag
-
+   - find_all, find
+   - select
+   
 04
 
 05
