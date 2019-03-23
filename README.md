@@ -27,10 +27,17 @@ Web Crawling Examples
    - konlpy, Okt() - twitter morpheme analyzer
    - pickle
 
-07
+07_naver_baseball_match_crawling_Ajax
+   - developer tool -> network tab -> XHR -> request URL
+   - baseball match status, date, (team/score/pitcher)(home/away)
 
-08
+08_selenium
+   - pip install selenium
+   - webdriver : https://www.seleniumhq.org/download/
+   - bs4, selenium
+   - get(), title, page_source
+   - find_element_by_id(), find_element_by_tag_name()
 
-09
+09_
 
 10
